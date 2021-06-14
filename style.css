@@ -21,7 +21,7 @@ h6{
 }
 }
 .float4 {
-  position: absolute;
+  position: center;
   top: 54px;
   left: 500px;
 }
