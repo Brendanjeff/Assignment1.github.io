@@ -19,3 +19,9 @@ h6{
   top: 54px;
   left: 10px;
 }
+}
+.float4 {
+  position: absolute;
+  top: 54px;
+  left: 500px;
+}
