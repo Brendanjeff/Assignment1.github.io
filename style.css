@@ -8,5 +8,14 @@ h6{
   position: fixed;
   top: 10px;
   left: 10px;
-
+}
+.float2 {
+  position: fixed;
+  top: 30px;
+  left: 10px;
+}
+.float3 {
+  position: fixed;
+  top: 50px;
+  left: 10px;
 }
